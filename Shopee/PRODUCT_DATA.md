@@ -1,5 +1,3 @@
----
-
 ### 📦 Shopee Product Data: Strategic Market Intelligence
 
 In the fast-moving Shopee ecosystem, real-time product data is your most valuable asset. Our API doesn't just "scrape" data—it delivers high-fidelity intelligence to fuel your business growth.
