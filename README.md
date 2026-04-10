@@ -101,6 +101,7 @@ Standardize your data acquisition process and gain a competitive edge in the glo
 **Status:** Fully Operational & Updated for 2026 🚀
 
 For API access, documentation, and custom data solutions, please visit our official website:
-👉 [**www.bodapi.com**](http://www.bodapi.com)
+* Official Website: https://bodapi.com
 * Telegram | [@bodapi_dan]
 * WeChat (微信) | `daniellehallasgo`
+* Email: support@bodapi.com
