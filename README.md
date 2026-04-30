@@ -1,5 +1,5 @@
 💡 **View Chinese Documentation:** [README_CN.md](./README_CN.md)
-# shopee-api-global-data
+# shopee-api-enterprise-crawler
 The most powerful and flexible data solution for Shopee. We provide enterprise-level access to real-time e-commerce intelligence across all regional markets. Our technology is built to handle high-volume requests with zero downtime.
 
 
